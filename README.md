@@ -7,3 +7,4 @@ Compiled with: gcc -Wall -Wextra -Werror -pedantic -std=gnu89
 - Task 4: binary_tree_is_leaf
 - Task 5: binary_tree_is_root
 - Task 7: binary_tree_inorder (in-order traversal: Left, Node, Right)
+- Task 8: binary_tree_postorder (post-order traversal: Left, Right, Node)
