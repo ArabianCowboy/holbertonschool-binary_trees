@@ -12,4 +12,5 @@ Compiled with: gcc -Wall -Wextra -Werror -pedantic -std=gnu89
 - Task 9: binary_tree_height (height in edges; leaf = 0)
 - Task 10: binary_tree_depth (depth in edges from root)
 - Task 12: binary_tree_leaves (counts leaf nodes)
-Task 13: binary_tree_nodes (counts nodes with at least 1 child)
+- Task 13: binary_tree_nodes (counts nodes with at least 1 child)
+- Task 14: binary_tree_balance (measures the balance factor of a binary tree)
