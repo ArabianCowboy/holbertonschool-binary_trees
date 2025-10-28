@@ -17,3 +17,4 @@ Compiled with: gcc -Wall -Wextra -Werror -pedantic -std=gnu89
 - Task 15: binary_tree_checks (checks if a binary tree is full)
 - Task 16: binary_tree_checks (checks if a binary tree is perfect)
 - Task 17: binary_tree_finds (finds the sibling of a node)
+- Task 18: binary_tree_finds (finds the uncle of a node)
