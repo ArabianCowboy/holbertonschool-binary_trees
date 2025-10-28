@@ -14,4 +14,5 @@ Compiled with: gcc -Wall -Wextra -Werror -pedantic -std=gnu89
 - Task 12: binary_tree_leaves (counts leaf nodes)
 - Task 13: binary_tree_nodes (counts nodes with at least 1 child)
 - Task 14: binary_tree_balance (measures the balance factor of a binary tree)
-- Task 15 : binary_tree_checks (checks if a binary tree is full)
+- Task 15: binary_tree_checks (checks if a binary tree is full)
+- Task 16: binary_tree_checks (checks if a binary tree is perfect)
